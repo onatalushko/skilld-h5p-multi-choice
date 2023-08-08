@@ -1,14 +1,14 @@
 {
-  "title": "Multiple Choice",
+  "title": "Skilld Multiple Choice",
   "contentType": "Question",
   "majorVersion": 1,
   "minorVersion": 16,
-  "patchVersion": 7,
+  "patchVersion": 6,
   "runnable": 1,
   "embedTypes": [
     "iframe"
   ],
-  "machineName": "H5P.MultiChoice",
+  "machineName": "H5P.SkilldMultiChoice",
   "author": "Joubel",
   "license": "MIT",
   "coreApi": {
